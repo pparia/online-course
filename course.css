@@ -1,0 +1,189 @@
+body{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(129, 55, 113);
+    border-width: 10%;
+}
+
+/* navbar */
+.navbar-brand{
+    color: antiquewhite;
+}
+.ml-auto{
+    margin-left: auto;
+}
+
+.btn-heading{
+    margin: 5px;
+    
+ 
+}
+/* heading part*/
+.heading-img{
+    width: 75%;
+    float: left;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-right: 8%;
+    margin-left: 25%;
+    border-radius: 10px;
+
+
+}
+.h3-heading{
+    color: rgb(213, 92, 27);
+    height: 10%;
+    margin-top: 10px;
+  
+   
+}
+
+.h1-heading{
+    color: aliceblue;
+    
+    
+}
+
+.p-heading{
+    color: aliceblue;
+    text-align: justify;
+    font-size: 15px;
+    margin-right: 80px;
+    margin-top: 2%;
+    
+  
+}
+.btn-heading-read{
+    margin-bottom: 5%;
+}
+
+.div2-heading{
+ text-align: left;
+
+}
+
+/* main part*/
+.card-group{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.main-h3{
+color: rgb(66, 65, 65);
+font-weight: 100px;
+padding-bottom: 2.5%;
+padding-top: 2%;
+text-align: center;
+font-family: 'Rubik', sans-serif;
+
+}
+.h5-main{
+    font-family: 'Rubik', sans-serif;
+    color: rgb(117, 60, 60);
+    text-align: center;
+    font-weight: bold;
+}
+.card-text{
+    font-family: 'Rubik', sans-serif;
+    padding-top: 1%;
+
+}
+/* line for feature course*/
+
+
+.hr-sect {
+    display: flex;
+   flex-basis: 100%;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.35);
+    margin: 5% 0px;
+
+}
+.hr-sect:before,
+.hr-sect:after {
+    content: "";
+    flex-grow: 1;
+    background: rgba(0, 0, 0, 0.35);
+    height: 1px;
+    font-size: 10px;
+    font-weight: 100px;
+    line-height: 1px;
+    margin: 0px 8px;
+}
+.hr-size{
+    font-size:xx-large;
+    color: rgb(66, 65, 65);
+    font-weight: 100px;
+    font-family: 'Rubik', sans-serif;
+}
+
+/*intrduce our course*/
+.card-img-top{
+    width: 295px;
+    height: 180px;
+}
+.card-deck{
+    width: 25%;
+    height: 35%;
+}
+
+.bgcolor1-main{
+    background-color: rgb(44, 153, 89);
+}
+.bgcolor2-main{
+    background-color: rgb(92,165,160);
+}
+.bgcolor3-main{
+background-color: rgb(215,49,88);
+}
+.photo-table{
+    font-family: 'Rubik', sans-serif;
+    color: rgb(115, 51, 51);
+    font-weight:bolder;
+
+}
+.third-div{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.btn-outline-warning{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.btn2-onlinecourse{
+margin-top: 12%;
+}
+.p-maincourse{
+text-align: center;
+font-weight:bolder;
+font-size:xx-large;
+margin-top: 5%;
+font-family: 'Acme', sans-serif;
+margin-bottom: auto;
+}
+.degin-p-btn{
+    width: 700px;
+    margin-left: 27%;
+
+}
+.btn-center{
+   margin-bottom: 5%;
+    margin-left: 35%;
+}
+
+/*work oppurtunity*/
+
+.span-center-work{
+color: antiquewhite;
+font-size:30px;
+padding-top: 20%;
+padding-left: 45%;
+font-family: 'Acme', sans-serif;
+}
+
+
+    
